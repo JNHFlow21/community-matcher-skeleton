@@ -1,0 +1,1 @@
+../../../../.matcher/skills/community-matcher/references/schema.md
